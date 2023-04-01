@@ -1,4 +1,4 @@
-# react-projects-to-dolist-
+# React-projects-to-dolist-
 
 using hooks, state and passing props
 
